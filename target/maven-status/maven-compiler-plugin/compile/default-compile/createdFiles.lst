@@ -1,0 +1,5 @@
+resources\base.class
+pageObjects\Archivaljob.class
+pageObjects\Archivalwindow.class
+pageObjects\Dashboard.class
+resources\ExtentReporterNG.class
